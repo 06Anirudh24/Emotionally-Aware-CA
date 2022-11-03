@@ -1,3 +1,6 @@
+##Objective: -
+To build an emotionally aware conversational agent (chatbot) for mental health. 
+
 ## Dataset: -
 
 This work makes use of a dataset from Kaggle - [Mental Health FAQ](https://www.kaggle.com/narendrageek/mental-health-faq-for-chatbot). The dataset consists of 98 FAQs about Mental Health. It consists of 3 columns - QuestionID, Questions, Answers. 
